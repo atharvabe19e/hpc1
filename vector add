@@ -77,4 +77,11 @@ int main()
 comp-proj-sys10@compprojsys10-OptiPlex-3010:~/Downloads$ nvcc vect_add.cu
 comp-proj-sys10@compprojsys10-OptiPlex-3010:~/Downloads$ ./a.out
 0 3 6 9 12 15 18 21 24 27
+
+
+to run
+
+nvcc filename.cu
+./.out
+
 */
