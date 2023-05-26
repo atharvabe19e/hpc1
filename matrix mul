@@ -118,4 +118,9 @@ sl-sys11@slsys11-OptiPlex-3010:~$ ./a.out
 125.000000 
 sl-sys11@slsys11-OptiPlex-3010:~$ 
 
+
+to run
+
+nvcc filename.cu
+./.out
 */
